@@ -15,12 +15,6 @@ import "./App.css";
 
 firebase.initializeApp({
   // your firebase web app configuration
-  apiKey: "AIzaSyCTE-bhyOS5kSq-AXoxGu72PMVjQH26PCs",
-  authDomain: "quickchat-c7992.firebaseapp.com",
-  projectId: "quickchat-c7992",
-  storageBucket: "quickchat-c7992.appspot.com",
-  messagingSenderId: "930690179608",
-  appId: "1:930690179608:web:8e9fd39858748b18db996d",
 });
 
 const auth = firebase.auth();
