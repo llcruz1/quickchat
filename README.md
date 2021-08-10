@@ -1,6 +1,6 @@
 ## Quickchat
 
- A very simple group-chat application built along with [Fireship's tutorial](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA).
+ A very simple group-chat application built along with [Fireship's tutorial](https://www.youtube.com/watch?v=zQyrwxMPm88).
 
 [Live demo](quickchat-c7992.firebaseapp.com/)
 
