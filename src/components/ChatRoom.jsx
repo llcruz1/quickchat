@@ -46,7 +46,7 @@ function ChatRoom({ auth, firestore }) {
         <input
           value={formValue}
           onChange={(e) => setFormValue(e.target.value)}
-          placeholder="say something nice"
+          placeholder="Type here..."
         />
 
         <button type="submit" disabled={!formValue}>
