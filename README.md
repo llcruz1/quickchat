@@ -7,9 +7,9 @@
 ## Technologies
 Project built with the following tools:
 
-React.js
-Firebase
-react-firebase-hooks
+* React.js
+* Firebase
+* react-firebase-hooks
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
